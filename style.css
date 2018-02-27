@@ -1,0 +1,25 @@
+body{
+	background-color: orange;
+}
+input[type='text']{
+	border-radius: 7px;
+	padding: 5px;
+}
+table{
+	border-collapse: collapse;
+	margin: 5px;
+}
+td{
+	border:1px green solid;
+	border-radius: 5px;
+	padding: 5px;
+	
+
+}
+
+.delete{
+	background-color: red;
+	color: white;
+	border-radius: 7px;
+	padding: 5px 10px;
+}
